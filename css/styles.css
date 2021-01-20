@@ -1,0 +1,62 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #252525;
+    color: bisque;
+  }
+
+  button {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #252525;
+    color: #ffffff;
+  }
+
+  .newPlayerButton {
+    padding: 5px 5px;
+    border: 1px solid #ffffff88;
+    border-radius: 4px;
+  }
+
+  .playerDisplay {
+    display: flex;
+    justify-content: center;
+    margin: 10px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border-radius: 4px;
+    color: #ffffff;
+    padding: 10px 10px;
+  }
+
+  .playerName {
+    position: absolute;
+  }
+
+  .lifeDownButton {
+    font-size: 20px;
+    border: 2px solid #b45e5e;
+    border-radius: 4px;
+    width: 60px;
+    background-color: #44292550;
+  }
+
+  .lifeTotalDisplay {
+    width: 170px;
+    font-size: 90px;
+    padding: 5px 10px;
+    text-align: center;
+  }
+
+  .lifeUpButton {
+    font-size: 20px;
+    border: 2px solid #5eb48b;
+    border-radius: 4px;
+    width: 60px;
+    background-color: #25443550;
+  }
+
+  .backgroundColorButton {
+    justify-content: center;
+    position: absolute;
+  }
